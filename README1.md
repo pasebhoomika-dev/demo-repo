@@ -1,2 +1,2 @@
 # Demo
-This is example code in git 
+This is example code in git.
